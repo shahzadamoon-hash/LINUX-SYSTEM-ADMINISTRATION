@@ -1,0 +1,51 @@
+1
+00:00:00,690 --> 00:00:00,930
+Hi.
+
+2
+00:00:01,830 --> 00:00:03,750
+I'm so glad that you are here.
+
+3
+00:00:04,680 --> 00:00:10,920
+Welcome to my course, complete Linux training course to get your dream I.T. job.
+
+4
+00:00:12,600 --> 00:00:14,310
+Let me put in a very simple words.
+
+5
+00:00:16,060 --> 00:00:22,450
+When you take my course at the end of this course, you're going to learn so many things about Linux
+
+6
+00:00:22,690 --> 00:00:26,940
+that you will be able to apply for a Linux job and you will get the job.
+
+7
+00:00:28,140 --> 00:00:28,740
+Fair enough.
+
+8
+00:00:29,520 --> 00:00:35,820
+My name is Imron Afsal and I've been in I.T. for almost a decade and a half.
+
+9
+00:00:36,480 --> 00:00:41,280
+I've been working in New York City for financial firm and tech media industries.
+
+10
+00:00:42,660 --> 00:00:44,430
+I've been teaching for a while now.
+
+11
+00:00:45,390 --> 00:00:54,420
+And the biggest thing and the best thing about my teaching is every time I teach, I make sure the person
+
+12
+00:00:54,420 --> 00:00:59,520
+who is taking my course will get the job at the end of my course.
+
+13
+00:01:00,480 --> 00:01:03,210
+So are you ready to take this journey with me?
