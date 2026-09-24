@@ -1,0 +1,171 @@
+1
+00:00:02,050 --> 00:00:03,300
+What is Linux.
+
+2
+00:00:03,310 --> 00:00:09,910
+So of course we are going to learn Linux but we do want to know what exactly is.
+
+3
+00:00:09,910 --> 00:00:11,640
+Linux is an operating system.
+
+4
+00:00:11,710 --> 00:00:13,690
+It's just like any other operating system.
+
+5
+00:00:13,690 --> 00:00:16,750
+For example Microsoft has Windows.
+
+6
+00:00:16,840 --> 00:00:21,580
+Apple has Mac sun which is now owned by Oracle.
+
+7
+00:00:21,580 --> 00:00:25,210
+They have Solaris running on sparc hardware.
+
+8
+00:00:25,570 --> 00:00:33,160
+So Linux is an operating system which sits in the middle of your hardware and the users and the users
+
+9
+00:00:33,160 --> 00:00:36,870
+are the ones who run the applications.
+
+10
+00:00:37,030 --> 00:00:44,970
+So it's like a middleman or a bridge that takes the commands from users and translate them to hardware.
+
+11
+00:00:45,340 --> 00:00:46,270
+So look at this picture.
+
+12
+00:00:46,270 --> 00:00:48,230
+So you see a computer right.
+
+13
+00:00:48,350 --> 00:00:54,040
+So without an operating system this computer is considered like a dumb terminal.
+
+14
+00:00:54,040 --> 00:00:55,410
+It doesn't do anything.
+
+15
+00:00:55,540 --> 00:00:56,560
+So how does it work.
+
+16
+00:00:56,560 --> 00:01:02,050
+So we have this terminal which is of course a piece of brick.
+
+17
+00:01:02,170 --> 00:01:11,530
+You open the tray of their computer you insert your CD or DVD in that CD or DVD has the operating system
+
+18
+00:01:11,590 --> 00:01:19,250
+image sitting on it whether it's a Windows or Linux or whichever operating system that you are installing.
+
+19
+00:01:19,480 --> 00:01:23,860
+So you boot your computer from that operating system.
+
+20
+00:01:23,860 --> 00:01:29,920
+So once you're booting it up it goes through the installation process that installation process is going
+
+21
+00:01:29,920 --> 00:01:35,500
+to ask you a bunch of questions like How do you want the operating system to configure how you want
+
+22
+00:01:35,500 --> 00:01:37,050
+your dissertation.
+
+23
+00:01:37,210 --> 00:01:38,730
+How do you want.
+
+24
+00:01:38,800 --> 00:01:41,980
+How many users you want to have installed and so on.
+
+25
+00:01:41,980 --> 00:01:49,450
+So once the installation is done then at the end of the installation it's going to ask you to reboot
+
+26
+00:01:49,580 --> 00:01:56,080
+reboot the computer and it comes up to the Volcom screen and say welcome to Linux or Welcome to Windows
+
+27
+00:01:56,140 --> 00:01:59,360
+or watch every operating system that you are installing.
+
+28
+00:01:59,380 --> 00:02:02,860
+So then you could attach external devices to it.
+
+29
+00:02:02,860 --> 00:02:05,530
+For example you could attach a keyboard to it.
+
+30
+00:02:05,650 --> 00:02:07,630
+You could attach mouse to it.
+
+31
+00:02:07,630 --> 00:02:18,250
+So you use these mouse in keyboards you type a certain command certain you use applications and type
+
+32
+00:02:18,250 --> 00:02:21,470
+them and then you send it to your operating system.
+
+33
+00:02:21,790 --> 00:02:28,680
+Then you operate system takes those commands and forward it to other hardware or other system of peripherals.
+
+34
+00:02:28,680 --> 00:02:31,420
+So some of them are for example the printer.
+
+35
+00:02:31,420 --> 00:02:37,270
+So you if you are running an application for example you're running microsoft word you type it in with
+
+36
+00:02:37,270 --> 00:02:41,120
+your keyboard and then you want to print that document right.
+
+37
+00:02:41,230 --> 00:02:46,840
+So the operating system will take that document and send it to your printer and your printer will spit
+
+38
+00:02:46,840 --> 00:02:49,660
+out the document that you wanted to print.
+
+39
+00:02:49,660 --> 00:02:55,960
+Or if you're running other programs for example you are online you're checking your e-mail or you are
+
+40
+00:02:56,770 --> 00:02:59,770
+running some online program where you win games.
+
+41
+00:02:59,770 --> 00:03:07,660
+So you are using your keyboard or your mouse you communicating with your operating system and the heart
+
+42
+00:03:07,720 --> 00:03:13,450
+operating system can communicate with your hardware and that's how we make haste to other devices on
+
+43
+00:03:13,450 --> 00:03:13,980
+the network.

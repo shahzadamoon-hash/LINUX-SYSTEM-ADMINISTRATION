@@ -1,0 +1,119 @@
+1
+00:00:01,920 --> 00:00:06,710
+Let's look at Gen-X versus Linux and see what are the differences.
+
+2
+00:00:06,720 --> 00:00:12,060
+But before we get into finding the differences we'll find out what Unix is.
+
+3
+00:00:12,060 --> 00:00:21,990
+Unix was first developed for multi-user and multitask purposes in mid 1970s in Bell Labs by AT&amp;T G and
+
+4
+00:00:21,990 --> 00:00:24,520
+Massachusetts Institute of Technology.
+
+5
+00:00:24,540 --> 00:00:31,490
+There was an operating system but it was not allowing for multi users or multitasking.
+
+6
+00:00:31,500 --> 00:00:38,360
+So that was one of the purposes for creating the then born Linux in 1991.
+
+7
+00:00:38,400 --> 00:00:48,930
+But Abdoun named linux towards Linux is mostly free and Linux is open source.
+
+8
+00:00:49,110 --> 00:00:57,070
+So what Linux Free means is you could install the Linux operating system in any of your computer hardware.
+
+9
+00:00:57,210 --> 00:01:02,790
+There are a few Linux distributions that are not free like redhat where you would have to pay for support
+
+10
+00:01:02,790 --> 00:01:11,850
+and subscription and open source means that Linux code that was derived from Unix is actually open to
+
+11
+00:01:11,850 --> 00:01:18,660
+the public to the community so they can go in and make changes to their code and make the operating
+
+12
+00:01:18,660 --> 00:01:22,880
+system the way they want it to work in their way.
+
+13
+00:01:22,920 --> 00:01:29,110
+Unix is mostly used by sun and the operating system is called Solaris.
+
+14
+00:01:29,250 --> 00:01:37,650
+By the way sun is now bought out by Oracle and also other operating systems that are Unix as used as
+
+15
+00:01:37,680 --> 00:01:46,670
+HP ex-spy HP A-I X and some other distributions of Unix Linux is used mostly by developer communities
+
+16
+00:01:46,970 --> 00:01:56,210
+or companies like redhat cental West Debian Fedora are Susie buntu and there are so many of them.
+
+17
+00:01:56,220 --> 00:02:02,680
+Even if you go out and search for Linux distributions you will find so many of them.
+
+18
+00:02:02,730 --> 00:02:07,380
+Unix is comparatively support and very few are a file system.
+
+19
+00:02:07,380 --> 00:02:08,880
+Now what is a file system.
+
+20
+00:02:08,940 --> 00:02:11,310
+That is something that we will Khowar later.
+
+21
+00:02:11,310 --> 00:02:17,750
+But there are fewer file system that supported by Unix operating system and a lot more file systems
+
+22
+00:02:17,750 --> 00:02:22,470
+that are supported in Linux flavors.
+
+23
+00:02:22,470 --> 00:02:29,220
+Linux can be installed on a variety of computer hardware ranging from mobile homes tablet video games
+
+24
+00:02:29,220 --> 00:02:36,570
+console to mainframe and super super computers is just like you cannot install Mac operating system
+
+25
+00:02:36,840 --> 00:02:38,100
+on a Dell machine.
+
+26
+00:02:38,220 --> 00:02:43,380
+You have to install Mac operating system on a Mac hardware just like that.
+
+27
+00:02:43,380 --> 00:02:50,940
+Unix is only installed on certain hardware as Linux you could install pretty much on every hardware
+
+28
+00:02:51,210 --> 00:02:55,080
+that is out there running MDO Intel processor.
+
+29
+00:02:55,650 --> 00:03:01,980
+So these are the few basics about Unix and and Linux and I hope you will find more information if you
+
+30
+00:03:01,980 --> 00:03:03,600
+you're curious about it online.
